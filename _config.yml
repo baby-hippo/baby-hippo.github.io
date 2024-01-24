@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: baby-hippo # the main title
 
-tagline: 안녕하세요! 아기 히포입니다! # it will display as the sub-title
+tagline: 아기 히포입니다! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   IT, Java, Javascript, DB, Linux, ...
