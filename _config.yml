@@ -16,10 +16,10 @@ timezone: Asia/Seoul
 
 title: baby-hippo # the main title
 
-tagline: 아기 히포입니다! # it will display as the sub-title
+tagline: 아기 히포의 개발일지 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  IT, Java, Javascript, DB, Linux, ...
+  안녕하세요. 아기 히포입니다! Java, Javascript, DB, Linux, Docker 등 공부하고 있습니다.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -70,10 +70,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://chirpy-img.netlify.app"
+img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "assets/img/avatar.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
