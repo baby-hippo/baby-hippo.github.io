@@ -1,50 +1,50 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>http://localhost:4000/posts/Start-Blog/</loc>
+    <loc>https://baby-hippo.github.io/posts/Start-Blog/</loc>
     <lastmod>2024-01-28T15:00:00+09:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/categories/</loc>
+    <loc>https://baby-hippo.github.io/categories/</loc>
     <lastmod>2024-01-28T17:47:05+09:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/tags/</loc>
+    <loc>https://baby-hippo.github.io/tags/</loc>
     <lastmod>2024-01-28T17:47:05+09:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/archives/</loc>
+    <loc>https://baby-hippo.github.io/archives/</loc>
     <lastmod>2024-01-28T17:47:05+09:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/about/</loc>
+    <loc>https://baby-hippo.github.io/about/</loc>
     <lastmod>2024-01-28T17:47:05+09:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/about/</loc>
+    <loc>https://baby-hippo.github.io/about/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/</loc>
+    <loc>https://baby-hippo.github.io/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/</loc>
+    <loc>https://baby-hippo.github.io/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/tags/blog/</loc>
+    <loc>https://baby-hippo.github.io/tags/blog/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/tags/test/</loc>
+    <loc>https://baby-hippo.github.io/tags/test/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/tags/start/</loc>
+    <loc>https://baby-hippo.github.io/tags/start/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/categories/blog/</loc>
+    <loc>https://baby-hippo.github.io/categories/blog/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/categories/test/</loc>
+    <loc>https://baby-hippo.github.io/categories/test/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/googlef6862802543274f6.html</loc>
+    <loc>https://baby-hippo.github.io/googlef6862802543274f6.html</loc>
     <lastmod>2024-01-28T17:38:38+09:00</lastmod>
   </url>
 </urlset>
