@@ -58,7 +58,7 @@ sudo update-grub
 
 ---
 ## reference
-- <a href="https://hec-ker.tistory.com/332" target="_blank"> CentOS 7 Console에서 글자 크기 변경하기 </a>
-- <a href="http://m.blog.chinaunix.net/uid-540538-id-213473.html" target="_blank"> vga resolution and color depth reference Chart </a>
-- <a href="https://itmir.tistory.com/60" target="_blank"> Grub(리눅스 부트로더)의 기본 부팅 목록과 부팅 대기 시간을 바꿔보자 </a>
+- [CentOS 7 Console에서 글자 크기 변경하기](https://hec-ker.tistory.com/332){:target="_blank"}
+- [vga resolution and color depth reference Chart](http://m.blog.chinaunix.net/uid-540538-id-213473.html){:target="_blank"}
+- [Grub(리눅스 부트로더)의 기본 부팅 목록과 부팅 대기 시간을 바꿔보자](https://itmir.tistory.com/60){:target="_blank"}
 
