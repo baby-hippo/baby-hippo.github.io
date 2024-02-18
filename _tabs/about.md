@@ -25,6 +25,5 @@ order: 4
 
 ## Jekyll 테마 더보기
 - [jamstackthemes.dev](https://jamstackthemes.dev/ssg/jekyll/){:target="_blank"}
-- [jekyllthemes.org](http://jekyllthemes.org/){:target="_blank"}
 - [jekyllthemes.io](https://jekyllthemes.io/){:target="_blank"}
 
