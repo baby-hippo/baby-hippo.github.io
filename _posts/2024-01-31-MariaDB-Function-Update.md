@@ -2,7 +2,7 @@
 title: MariaDB CLI 환경에서 Function(함수) 수정하는 법
 author: hippo
 date: 2024-01-31 18:30:00 +0900
-categories: [IT, Database]
+categories: [IT, MariaDB]
 tags: [IT, Database, MariaDB, CLI, DB 함수, Function]
 pin: true
 ---
